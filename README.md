@@ -1,3 +1,5 @@
+ ## Team Agreement : Bionca Bond, Brandon Mizutani, Chris Reichert, Angela Dzodzomenyo
+
 # Project-301
 
 # TEAM AGREEMENT
@@ -64,4 +66,4 @@
 * How will you communicate that it’s time to merge?
   > Ask whomever else is available. Through it in Slack. Communicate to other teammembers intent. 
 
-  ## Team Agreement : Bionca Bond, Brandon Mizutani, Chris Reichert, Angela Dzodzomenyo
+ 
